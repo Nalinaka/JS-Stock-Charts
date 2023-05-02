@@ -104,7 +104,7 @@ function calculateAverage(values) {
 main()
 
 
-b7bd6495b01c4bcab6a3533baec80bf4
+
 
 
 //let GME = result.GME
